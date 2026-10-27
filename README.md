@@ -48,8 +48,8 @@ VKN doğrulama algoritması modül 9 ve modül 10 aritmetiğine dayanır:
 ### 1. Kurulum
 
 ```bash
-git clone https://github.com/eimza-kep/turkey-vkn-tckn-validator.git
-cd turkey-vkn-tckn-validator
+git clone https://github.com/eimza-kep/turkiye-vkn-tckn-validator.git
+cd turkiye-vkn-tckn-validator
 ```
 
 ### 2. Komut Satırı (CLI) Kullanımı
