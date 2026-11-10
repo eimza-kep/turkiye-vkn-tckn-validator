@@ -3,7 +3,7 @@
 Türkiye Vergi Kimlik Numarası (VKN) ve T.C. Kimlik Numarası (TCKN) Doğrulayıcı
 """
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __author__ = "eimza-kep"
 
 from .validator import validate_vkn, validate_tckn, validate_identity, ValidationResult

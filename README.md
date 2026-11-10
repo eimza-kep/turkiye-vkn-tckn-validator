@@ -59,6 +59,11 @@ cd turkiye-vkn-tckn-validator
 python -m vkn_validator check 1234567890
 ```
 
+#### Toplu Doğrulama (Batch Mode):
+```bash
+python -m vkn_validator batch firmalar.txt --output sonuclar.csv
+```
+
 #### Test Ortamı İçin Geçerli VKN Üretme:
 ```bash
 python -m vkn_validator generate --type vkn --count 3
